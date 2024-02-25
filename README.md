@@ -18,7 +18,7 @@ The bot can:
 3. Run the script using:
 
 ```
-python instagram_bot.py
+python instagrambot.py
 ```
 
 4. Bot will automatically log in and start liking posts
